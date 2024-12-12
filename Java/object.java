@@ -24,10 +24,10 @@ class car {
             car.isweight(4250);
             boolean feature = tesla.ispanronicsunroof(false);
             System.out.print(feature);
-            // System.out.println(tesla.topspeed);
-            // System.out.println(tesla.power);
-            // System.out.println(tesla.torque);
-            // System.out.println(tesla.model);
+            System.out.println(tesla.topspeed);
+            System.out.println(tesla.power);
+            System.out.println(tesla.torque);
+            System.out.println(tesla.model);
 
         }
     }
