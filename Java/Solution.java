@@ -8,6 +8,7 @@ public class Solution {
        System.out.println(n);
        System.out.println(s);
        System.out.println(c);
+       sc.close();
     }
 
 }

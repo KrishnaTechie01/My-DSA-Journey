@@ -7,6 +7,7 @@ public class Factorial {
         for (int i = 1; i <= n; i++) {
             Fact = Fact * i;
         }
-        System.out.print("The value of the nth Factorical: "+Fact);
+        System.out.print("The value of the nth Factorical: " + Fact);
+        sc.close();
     }
 }

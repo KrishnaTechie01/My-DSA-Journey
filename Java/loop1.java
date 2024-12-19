@@ -8,5 +8,6 @@ public class loop1 {
         for (int i = 1; i <= m; i++) {
             System.out.println(n);
         }
+        sc.close();
     }
 }

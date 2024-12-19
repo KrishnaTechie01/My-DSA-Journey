@@ -9,5 +9,6 @@ public class last {
             System.out.print(ld);
             n = n / 10;
         }
+        sc.close();
     }
 }

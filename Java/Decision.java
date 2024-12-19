@@ -6,20 +6,19 @@ public class Decision {
         int value = sc.nextInt();
         switch (value) {
             case 30:
-            System.out.print("Medium");
-            break;
+                System.out.print("Medium");
+                break;
             case 38:
-            System.out.print("Large");
-            break;
+                System.out.print("Large");
+                break;
             case 42:
-            System.out.print("Xlarge");
-            break;
+                System.out.print("Xlarge");
+                break;
             default:
-            System.out.print("Invalid");
-            break;
-
-
+                System.out.print("Invalid");
+                break;
 
         }
+        sc.close();
     }
 }

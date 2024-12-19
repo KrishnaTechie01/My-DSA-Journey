@@ -15,6 +15,7 @@ import java.util.Scanner;
          }
          System.out.println("Sum of the array:");
          System.out.println(sum);
+         sc.close();
 
     }
 }

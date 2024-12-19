@@ -9,7 +9,7 @@ public class Triangle{
         System.out.println("Triangle can be formed");
        }
        System.out.println("Triangle can't be formed");
-       
+       Num.close();
     }
 
 }

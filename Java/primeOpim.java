@@ -7,12 +7,11 @@ class primeOpim {
             if (n % i != 0) {
                 System.out.println("Prime Number");
                 break;
-            }
-            else 
-            {
+            } else {
                 System.out.println("It's not a Prime Number");
                 break;
             }
         }
+        sc.close();
     }
 }

@@ -7,7 +7,8 @@ public class loop3 {
         String s1 = sc.next();
         String s2 = sc.next();
         for (int i = 1; i <= n; i++) {
-            System.out.println(s1+s2);
+            System.out.println(s1 + s2);
         }
+        sc.close();
     }
 }

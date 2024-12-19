@@ -16,7 +16,8 @@ public class perfectNumber {
             System.out.print("Perfect Number Of "+n+" is Equal to sum value "+sum);
         }
         else {
-            System.out.print("It's Not Perfect Number "+n+" is Not to Equal the sum value "+sum);
+            System.out.print("It's Not Perfect Number " + n + " is Not to Equal the sum value " + sum);
         }
+        sc.close();
     }
 }

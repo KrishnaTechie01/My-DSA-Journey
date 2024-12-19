@@ -17,6 +17,7 @@ public class palindromeNumber {
         else {
             System.out.print("It's not a Palindrone Number");
         }
+        sc.close();
 
     }
 }

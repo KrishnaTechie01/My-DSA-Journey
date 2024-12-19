@@ -12,6 +12,7 @@ public class countdigit {
         }
 
         System.out.print(count);
+        sc.close();
 
     }
     

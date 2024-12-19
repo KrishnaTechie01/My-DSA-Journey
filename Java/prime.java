@@ -16,5 +16,6 @@ public class prime {
                 System.out.print(i);
             }
         }
+        sc.close();
     }
 }

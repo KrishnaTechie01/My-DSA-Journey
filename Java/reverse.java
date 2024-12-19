@@ -12,6 +12,7 @@ public class reverse {
         }
 
         System.out.print(sum);
+        sc.close();
 
     }
 }

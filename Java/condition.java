@@ -19,5 +19,6 @@ public class condition {
         else {
             System.out.print("Fail");
         }
+        sc.close();
     }
 }

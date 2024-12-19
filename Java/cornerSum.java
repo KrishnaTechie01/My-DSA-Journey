@@ -13,6 +13,7 @@ public class cornerSum {
         
        int sum = ld + fd;
        System.out.print(sum);
+       sc.close();
     }
 }
 

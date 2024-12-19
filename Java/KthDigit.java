@@ -17,5 +17,6 @@ public class KthDigit {
             
         }
         System.out.print("0");
+        sc.close();
     }
 }

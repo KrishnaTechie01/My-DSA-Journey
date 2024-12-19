@@ -11,6 +11,7 @@ import java.util.Scanner;
          System.out.println("Output value");
          for (int i = 0; i < roll.length; i++) {
              System.out.println(roll[i]);
-        }
+         }
+         s.close();
     }
 }
